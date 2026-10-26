@@ -1,0 +1,4 @@
+crop,market,moisture_percent,visual_observation,data_type
+Maize,Hubballi,12.5,mostly_clean,illustrative_test_input_not_market_data
+Ragi,Dharwad,10.0,mixed_size,illustrative_test_input_not_market_data
+Green gram,Belagavi,11.5,visible_damage,illustrative_test_input_not_market_data
